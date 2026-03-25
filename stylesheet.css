@@ -1,6 +1,6 @@
 .gradient-background {
   /* background: linear-gradient(300deg, #00bfff, #4cffc9, #7276ef); */
-  background-image:url(../PersonalSite/assets/images/sunset.JPEG);
+  background-image:url(./assets/images/sunset.JPEG);
   background-size: 180% 180%;
   animation: gradient-animation 18s ease infinite;
 }
